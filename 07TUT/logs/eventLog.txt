@@ -1,0 +1,4 @@
+20221130	22:07:24	725364f2-055e-4c0b-bcfb-917b1ecd4449	GET	undefined	/
+20221130	22:09:59	f4257210-1bcc-4a48-991d-f641cd4ff127	GET	undefined	/index
+20221130	22:11:20	edd3a6d4-0a69-4123-b2b4-88dba0814cc5	GET	undefined	/
+20221130	22:11:20	a24bd18d-92b5-4525-a00b-573369fd0ac1	GET	undefined	/css/style.css
