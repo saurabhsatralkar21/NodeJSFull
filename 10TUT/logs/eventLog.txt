@@ -71,3 +71,5 @@
 20221222	19:17:23	207e30fe-4d4c-49c4-9d0a-dc329afab7bd	GET	undefined	/employees
 20221222	19:17:28	9bc573e0-e095-4534-a6dd-35449d24dc15	GET	undefined	/employees/1
 20221222	19:17:50	9bc6d7cf-4c07-40e4-a212-bbdee3fe5efd	GET	undefined	/employees/1
+20221222	19:41:01	730b0944-87c2-44c6-9ce1-f3591eef60eb	POST	undefined	/register
+20221222	19:41:44	6a4e7b8d-3aac-4193-87b3-0066a732c787	POST	undefined	/register
