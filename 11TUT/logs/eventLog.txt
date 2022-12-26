@@ -83,3 +83,22 @@
 20221226	10:43:46	d3f50726-ad01-4b8f-9b9d-285b64b7d0ed	GET	undefined	/employees
 20221226	10:44:24	301892ee-3691-4a74-ba55-5ea2eab845ae	POST	undefined	/auth
 20221226	10:44:34	d9ff5997-5044-427b-8bb3-1444b3bfa198	GET	undefined	/employees
+20221226	10:53:30	57203e2f-1de7-44ab-ac4d-88f364f0b44a	POST	undefined	/auth
+20221226	10:53:46	21adf7ef-7f3d-4b93-8487-87442d472917	GET	undefined	/employees
+20221226	10:53:54	5a3ffe74-bac7-4a05-84a3-6e74d70b985d	GET	undefined	/employees
+20221226	10:53:55	5176fc32-849e-436d-96af-7b7ed8a6125f	GET	undefined	/employees
+20221226	10:53:56	daef62ac-6e11-4609-b688-187fbf5dfc64	GET	undefined	/employees
+20221226	10:53:57	9a6259de-947b-42c5-9643-418934d3da83	GET	undefined	/employees
+20221226	10:53:58	e3fb748f-a79a-4701-ba66-03a46b0e7d83	GET	undefined	/employees
+20221226	10:53:58	14b68225-f3f3-44b1-a9e5-899b29436f90	GET	undefined	/employees
+20221226	10:53:59	21ad2ab9-920e-4154-b5e7-b0258cb9ef8b	GET	undefined	/employees
+20221226	10:54:00	ffb69cd5-6409-469f-bf8f-d195ec2569fe	GET	undefined	/employees
+20221226	10:54:52	14a9701a-75f9-4da7-bed3-f5b3fda142c1	POST	undefined	/employees
+20221226	11:15:24	2357bec9-5ced-44e8-83b4-69f86726ec38	POST	undefined	/register
+20221226	11:15:35	fa1a6026-ff0c-4454-9d93-fd52ada9565f	POST	undefined	/auth
+20221226	11:16:29	a348b913-22b7-43e1-a3dd-b4bf501af20a	GET	undefined	/refresh
+20221226	11:16:29	040bafa6-6707-40f6-ad51-917f6f8d953f	ReferenceError: cokkies is not defined
+20221226	11:16:43	b49c263d-6dac-442a-9c3f-97471b4867d4	GET	undefined	/refresh
+20221226	11:16:43	ee6439bf-2ac3-49a9-bd0d-89928205b45e	ReferenceError: cokkies is not defined
+20221226	11:18:14	b445b606-f164-489a-9940-298b01a23113	GET	undefined	/refresh
+20221226	11:18:21	711230ab-d4ca-429a-ae96-fdb7952eea9e	GET	undefined	/refresh
