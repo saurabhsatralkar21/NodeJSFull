@@ -1,0 +1,20 @@
+[
+    {
+        "username": "disney",
+        "password": "$2b$10$La6tp9JX/KY8D9LRK9Qsne0UrBds/iWogF1ctyaJRTpvgkImmtv7."
+    },
+    {
+        "username": "disnep",
+        "password": "$2b$10$640sn2gzHXl0OVxQQt8BkOWiqUundbaSd9q6Ku4.owEMqekdfJR3."
+    },
+    {
+        "username": "disnep1",
+        "password": "$2b$10$YqHfqKC6OyGsM9f74Omde.PLqKceS2vHeKFNWzYMWf5Gpdtqc1oZW",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRpc25lcDEiLCJpYXQiOjE2NzIwNDg0MTAsImV4cCI6MTY3MjEzNDgxMH0.X4qyPX_WR2EJmpTjTVNkDeWMMApHt8UVYav458Jt4EQ"
+    },
+    {
+        "username": "Cool",
+        "password": "$2b$10$qb9M.NLvMUxt09BSSXlrUu1d6qTA/0kRfDVcNd.5AiRsy0KcausTW",
+        "refreshToken": ""
+    }
+]
