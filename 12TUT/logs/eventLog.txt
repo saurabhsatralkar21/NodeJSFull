@@ -112,3 +112,15 @@
 20221226	12:45:10	22f25b8e-ce90-45f7-bb53-5f22ac9b7b30	POST	undefined	/register
 20221226	12:45:44	8f54a572-9520-4ce4-83d3-5ed116e52aaa	POST	undefined	/register
 20221226	12:46:06	59dccae8-c8eb-4288-b79f-3dcd95600d65	POST	undefined	/register
+20221226	13:10:36	bfa85c0f-f37d-46b1-9083-93376a26885f	GET	undefined	/auth
+20221226	13:10:47	030c0f86-754f-4c99-9e27-1c6df9903412	POST	undefined	/auth
+20221226	13:11:28	737452d6-570b-41e2-af15-888b10ef05c9	GET	undefined	/employees
+20221226	13:11:43	77744e02-9905-41f1-a8b8-fca7cdc731b3	POST	undefined	/auth
+20221226	13:11:52	41213372-9320-4a54-a186-979b91e07c15	GET	undefined	/employees
+20221226	13:13:19	1e24f4bd-42a1-417b-bda2-b1152376a43b	POST	undefined	/auth
+20221226	13:13:33	716ff648-0429-4b17-83fc-d056ae838042	GET	undefined	/employees
+20221226	13:13:48	9d777132-2abc-43f0-a0b9-e221becf48b2	POST	undefined	/employees
+20221226	13:13:53	51e32983-edca-434b-aaf5-687d62fcffd5	POST	undefined	/auth
+20221226	13:14:01	43fad64b-d9ae-4ed3-8dca-393a1c798c13	POST	undefined	/employees
+20221226	13:14:08	d10876bb-719c-48c5-b71c-e1f66b2a3400	POST	undefined	/employees
+20221226	13:14:12	cba19076-2d1b-448b-aaec-2dc69cf316ff	GET	undefined	/employees
