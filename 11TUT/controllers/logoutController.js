@@ -6,7 +6,7 @@ const usersDB = {
 const fsPromises = require("fs").promises;
 const path = require("path");
 
-const handleLogout = (req, res) => {
+const handleLogout = async (req, res) => {
     // On client, also delete the accessToken
 
     const cookies = req.cookies;
@@ -19,7 +19,17 @@ const handleLogout = (req, res) => {
         res.clearCookie("jwt", {httpOnly: true });
         return res.sendStatus(204); 
     }  
+    // Delete refreshToken in DB
+    const otherUsers = usersDB.users.filter(person => person.refreshToken !== foundUser.refreshToken);
+    const currentUser = {...foundUser, refreshToken: ""};
+    usersDB.setUsers([...otherUsers, currentUser]);
+    await fsPromises.writeFile(
+        path.join(__dirname,"..", "model", "user.json"),
+        JSON.stringify(usersDB.users)
+    );
 
+    res.clearCookie("jwt", {httpsOnly: true}); // secure: true - only serves on https
+    res.sendStatus(204);
 }
 
-module.exports = { handleRefreshToken };
+module.exports = { handleLogout };
